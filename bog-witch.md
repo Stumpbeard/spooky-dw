@@ -12,7 +12,7 @@ Damage: 1d4
 
 ## Moves
 
-**Mossy Cantrips** and **First Level Spells** are mandatory. Choose two other Moves.
+**Mossy Cantrips** and **First Level Spells** are mandatory. Choose two additional Moves.
 
 - **Mossy Cantrips**: You may cast any of your cantrips as often as you like.
   - _Smells:_ Summon Any smell you can think of in the visible area.
