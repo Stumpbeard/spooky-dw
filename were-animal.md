@@ -29,7 +29,7 @@ Damage: 1d6 in Human form, 1d10 in Animal form
   - 10+ : All enemies cower away from you. All friends take +1 on their next roll.
   - 7-9 : Choose one or the other.
 
-- **Relatable dude:** You can talk to all animals! Warning: they don't necessarily have to like you.
+- **Relatable Dude:** You can talk to all animals! Warning: they don't necessarily have to like you.
 
 ## Bonds
 
