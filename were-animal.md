@@ -10,7 +10,7 @@ Damage: 1d6 in Human form, 1d10 in Animal form
 
 ## Moves
 
-**Shapeshifter** is mandatory. Choose 3 additional Moves.
+**Shapeshifter** is mandatory. Choose three additional Moves.
 
 - **Shapeshifter:** On character creation, choose an animal that gave you your gift. At will, you can roll+STR to turn into a buffer version of that animal with a special ability (determined in collaboration with GM) and receive an amount of Hold to spend on that ability, turning back when it is expended. You may at any time expend all Hold to turn back.
 
