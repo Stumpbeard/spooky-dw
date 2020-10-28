@@ -2,17 +2,19 @@
 
 Like a pyromancer, but for bats?
 
+## Attributes
+
 **Important stats: WIS, CHA**
 
 Max HP: 6 + Constitution
 
 Damage: 1d4
 
+Note: A single bat can deal 1d2 damage. A group of bats can deal 1d6 damage. A horde of bats can deal 2d6 damage.
+
 ## Moves
 
 Choose four Moves.
-
-Note: A single bat can deal 1d2 damage. A group of bats can deal 1d6 damage. A horde of bats can deal 2d6 damage.
 
 - **Bat Bending:** When presented with a group of bats, Roll+WIS to bend them to your will.
   - 10+ : The bats will do exactly as you wish until you break concentration.

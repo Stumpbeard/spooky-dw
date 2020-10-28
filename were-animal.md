@@ -2,6 +2,8 @@
 
 Half man, half something _way_ radder.
 
+## Attributes
+
 **Important stats: STR, CHA, CON**
 
 Max HP: 8 + Constitution

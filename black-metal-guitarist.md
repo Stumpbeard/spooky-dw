@@ -2,6 +2,8 @@
 
 Trve Kvlt is a lifestyle, not a Halloween costume.
 
+## Attributes
+
 **Important stats: CHA, DEX**
 
 Max HP: 8 + Constitution

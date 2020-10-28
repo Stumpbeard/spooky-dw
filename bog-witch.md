@@ -2,6 +2,8 @@
 
 Often found under the bridge with a bag over their head.
 
+## Attributes
+
 **Important stats: INT, WIS**
 
 Max HP: 4 + Constitution

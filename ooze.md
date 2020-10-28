@@ -2,6 +2,8 @@
 
 Elements of health and poison coming together to create something not quite as good as either!
 
+## Attributes
+
 **Important stats: CON, WIS**
 
 Max HP: 6 + Constitution
