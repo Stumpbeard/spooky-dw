@@ -1,6 +1,6 @@
 # Black Metal Guitarist
 
-Trve kvlt shredding and riffing.
+Trve Kvlt is a lifestyle, not a Halloween costume.
 
 **Important stats: CHA, DEX**
 
