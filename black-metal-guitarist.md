@@ -1,4 +1,4 @@
-# Black Metal Guitarist
+# The Black Metal Guitarist
 
 Trve Kvlt is a lifestyle, not a Halloween costume.
 

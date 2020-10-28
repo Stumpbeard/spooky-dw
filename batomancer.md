@@ -1,4 +1,4 @@
-# Batomancer
+# The Batomancer
 
 Like a pyromancer, but for bats?
 

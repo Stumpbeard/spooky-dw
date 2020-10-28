@@ -1,4 +1,4 @@
-# Ooze
+# The Ooze
 
 Elements of health and poison coming together to create something not quite as good as either!
 

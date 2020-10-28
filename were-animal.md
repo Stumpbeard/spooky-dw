@@ -1,4 +1,4 @@
-# Were-animal
+# The Were-animal
 
 Half man, half something _way_ radder.
 
