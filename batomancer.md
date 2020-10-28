@@ -36,3 +36,9 @@ Choose four Moves.
   - 7-9 : The bat returns with a message for you. The help will be provided, but at a cost. The Council is so stingy.
 
 * **Echolocation:** You do not need light to see, as you can deduce your surroundings by screeching obnoxiously.
+
+## Bonds
+
+\_\_\_\_\_ thinks you're a vampire. This is flattering, since vampires are seen as way cooler than Batomancers.
+
+You got picked up by animal control while in bat form and \_\_\_\_\_ adopted you. They were very caring, and not even that bothered when you turned back into a person.

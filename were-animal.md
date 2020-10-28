@@ -30,3 +30,9 @@ Damage: 1d6 in Human form, 1d10 in Animal form
   - 7-9 : Choose one or the other.
 
 - **Relatable dude:** You can talk to all animals! Warning: they don't necessarily have to like you.
+
+## Bonds
+
+While you were lost in a tantrum while transformed, \_\_\_\_\_ found you and petted you until you came back to your senses.
+
+You saved \_\_\_\_\_ from a bear attack by transforming and Parleying in animal court.

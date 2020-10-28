@@ -28,3 +28,9 @@ Damage: 1d8
 - **Under a Funeral Moon**: Play an arcane lick on your Axe to shroud the surrounding area in darkness. Roll+DEX to hide the sun with the moon.
   - 10+ : Choose what phase of the moon, and how long (for up to an hour).
   - 7-9 : The GM will choose a phase of the moon and a length. Choose ONE to alter, the other occurs as the GM described it.
+
+## Bonds
+
+\_\_\_\_\_ came to your first show and has been a life long fan, even when no one else was.
+
+When on a church burning spree, you accidentally scorched \_\_\_\_\_'s parents alive. You've sworn to journey to Hell to bring their souls back.

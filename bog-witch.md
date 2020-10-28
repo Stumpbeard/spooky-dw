@@ -32,3 +32,9 @@ Damage: 1d4
 * **Super Boggin':** On a roll of 10+ when casting a First Level Spell, you may choose to expend your cast as if it were a roll of 7-9 but strongly amplify or double it in a way of your choosing.
 
 * **Worm Whisperer**: The worms know everything. If you have a chance to converse with a worm, snail, or slug before making a Spout Lore or Discern Realities Move, roll 2d8 instead of 2d6.
+
+## Bonds
+
+\_\_\_\_\_ was part of a protest group to save the bog you live in from real estate developers. You've never forgotten this.
+
+You gave fashion advice to \_\_\_\_\_ for a fancy ball. Everyone knows bog witches have the best style.

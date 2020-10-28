@@ -30,3 +30,9 @@ Choose four Moves.
 * **Pencil Pusher:** You never leave home without an infinite supply of finely sharpened pencils. Can be used as a throwing weapon or lockpick.
 
 * **The Mondays:** Consume the soul of anything you personally kill or sufficiently bore and gain Hold, up to 3. Spend Hold to release one of these souls in return for help on a task.
+
+## Bonds
+
+\_\_\_\_\_ listened to you. They actually listened.
+
+Last tax season, you got \_\_\_\_\_ out of some sticky issues with the IRS. Even creatures of the night pay income tax!

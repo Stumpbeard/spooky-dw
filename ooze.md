@@ -30,3 +30,9 @@ Damage: 1d6
   - <7 : You become the opposite intended size! Make the most of it!
 
 - **Jelly of Holding:** Anything that isn't resisting can be encased and carried inside you at no penalty. You may encase any number of things like this. Once it is fully inside of you, there is no escape without your permission.
+
+## Bonds
+
+You absorbed and consumed \_\_\_\_\_'s family heirloom and owe them a great debt for forgiveness.
+
+\_\_\_\_\_ used to work part time on a Slime Sanctuary, creating a shared understanding between you.
